@@ -4,7 +4,7 @@ function App() {
     <div>
       <h1>My Todos</h1>
 
-      <Todo />
+      <Todo text='Learn More' />
     </div>
   )
 }
